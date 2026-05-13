@@ -12,7 +12,7 @@ split = 5
  
 # block display symbols
 Player_standing = "🟦"
-Player_flat = "🟥"
+Player_flat = "🟩"
  
 # dictionary with all constants together
 Base_stats = {
